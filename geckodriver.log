@@ -1,0 +1,557 @@
+1637639187918	geckodriver	INFO	Listening on 127.0.0.1:49711
+1637639413069	geckodriver	INFO	Listening on 127.0.0.1:51345
+1637639449847	geckodriver	INFO	Listening on 127.0.0.1:51501
+1637639466684	geckodriver	INFO	Listening on 127.0.0.1:51515
+1637640085934	geckodriver	INFO	Listening on 127.0.0.1:49260
+1637640087949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49261" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilezFJXgM"
+1637640088220	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilezFJXgM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49261/devtools/browser/6c76f2e8-f7fd-4233-bc7f-26d35266c1bd
+1637640089387	Marionette	INFO	Listening on port 49266
+1637640089588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637640089602	Marionette	INFO	Stopped listening on port 49266
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1637640116926	geckodriver	INFO	Listening on 127.0.0.1:49301
+1637640118949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49302" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileFUJ9fK"
+1637640119225	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileFUJ9fK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49302/devtools/browser/af47535f-9bef-4efc-bf33-344349642287
+1637640120310	Marionette	INFO	Listening on port 49307
+1637640120580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1637427212, line 6074: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637640139311	Marionette	INFO	Stopped listening on port 49307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637640340298	geckodriver	INFO	Listening on 127.0.0.1:56067
+1637640342314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56068" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilez1NABu"
+1637640342628	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilez1NABu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56068/devtools/browser/369d9bb2-0797-4e08-91c0-952669292841
+1637640343741	Marionette	INFO	Listening on port 56076
+1637640343949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637640365238	Marionette	INFO	Stopped listening on port 56076
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637640434553	geckodriver	INFO	Listening on 127.0.0.1:55078
+1637640436571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55079" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile1TSwGn"
+1637640436885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile1TSwGn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55079/devtools/browser/ec1c7ce3-7aff-470d-81c5-575cb8a56547
+1637640437886	Marionette	INFO	Listening on port 55085
+1637640438197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637640474034	Marionette	INFO	Stopped listening on port 55085
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637640524520	geckodriver	INFO	Listening on 127.0.0.1:49573
+1637640526542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49574" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilefaBcqC"
+1637640526874	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilefaBcqC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49574/devtools/browser/569b7d05-2f68-4722-a295-12d3af394262
+1637640527949	Marionette	INFO	Listening on port 49583
+1637640528178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css without a browsingContextID set
+1637640538844	Marionette	INFO	Stopped listening on port 49583
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637640599722	geckodriver	INFO	Listening on 127.0.0.1:49705
+1637640601742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49706" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilexEAreO"
+1637640602017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilexEAreO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49706/devtools/browser/742ffb33-cc7d-473f-b804-1a1a10e1a8f8
+1637640602980	Marionette	INFO	Listening on port 49712
+1637640603377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637640614113	Marionette	INFO	Stopped listening on port 49712
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637640651566	geckodriver	INFO	Listening on 127.0.0.1:49782
+1637640653584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49783" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileZfRry4"
+1637640653863	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileZfRry4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49783/devtools/browser/d9fdf297-4831-4e44-b54e-4b3b836b2fe2
+1637640655318	Marionette	INFO	Listening on port 49788
+1637640655733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637640666337	Marionette	INFO	Stopped listening on port 49788
+1637640699842	geckodriver	INFO	Listening on 127.0.0.1:49862
+1637640701864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49863" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile0gbzKs"
+1637640702162	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile0gbzKs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49863/devtools/browser/4def9c25-bbfe-46a7-bf11-8f72d40b8aa7
+1637640703309	Marionette	INFO	Listening on port 49869
+1637640703508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637640706065	Marionette	INFO	Stopped listening on port 49869
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637640767911	geckodriver	INFO	Listening on 127.0.0.1:49931
+1637640769932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49932" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile66PgD4"
+1637640770202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile66PgD4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49932/devtools/browser/c0da6a0a-bb4b-49be-b172-e725fd76fe6d
+1637640771201	Marionette	INFO	Listening on port 49937
+1637640771560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637640821607	Marionette	INFO	Stopped listening on port 49931637640821796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\1684\\rust_mozprofileFL9iUH"
+1637640822125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileFL9iUH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50051/devtools/browser/5e6ee38e-8ce7-4f9b-b707-9a7008cc553f
+1637640823345	Marionette	INFO	Listening on port 50059
+1637640823436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637640953094	Marionette	INFO	Stopped listening on port 50059
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637640957595	geckodriver	INFO	Listening on 127.0.0.1:50311
+1637640959614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50312" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile9ja41z"
+1637640959890	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile9ja41z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50312/devtools/browser/ab543c12-2614-40d1-b3d7-cc1e38a7a0b4
+1637640960957	Marionette	INFO	Listening on port 50317
+1637640961248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.nstu.ru"
+1637641131900	Marionette	INFO	Stopped listening on port 50317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\1684\\rust_mozprofilezjWk7S"
+1637641127556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilezjWk7S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52208/devtools/browser/16063226-ad5b-425a-82e7-674aeaef0267
+1637641128532	Marionette	INFO	Listening on port 52214
+1637641128922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1637641292374	Marionette	INFO	Stopped listening on port 52214
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637641354752	geckodriver	INFO	Listening on 127.0.0.1:62470
+1637641356783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62471" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileEwsQq2"
+1637641357067	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileEwsQq2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62471/devtools/browser/61dcfbff-d8eb-4108-90f9-82b24fc9ba71
+1637641358216	Marionette	INFO	Listening on port 62486
+1637641358435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637641405487	Marionette	INFO	Stopped listening on port 62486
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637641409477	geckodriver	INFO	Listening on 127.0.0.1:62624
+1637641411497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62625" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileSLajH9"
+1637641411787	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileSLajH9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62625/devtools/browser/61384fef-9819-496b-a997-5c6de5c76345
+1637641413093	Marionette	INFO	Listening on port 62633
+1637641413133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637641502951	Marionette	INFO	Stopped listening on port 62633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637641577265	geckodriver	INFO	Listening on 127.0.0.1:56079
+1637641579296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56080" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilebRfcDh"
+1637641579559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilebRfcDh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56080/devtools/browser/3b8da21d-eeed-421f-a96f-0498b3e149b8
+1637641580596	Marionette	INFO	Listening on port 56086
+1637641580926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637641739070	Marionette	INFO	Stopped listening on port 56086
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\1684\\rust_mozprofilecjsniM"
+1637641687588	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilecjsniM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53929/devtools/browser/7bada812-f1d5-4288-9a76-dd2d0d226fb6
+1637641688642	Marionette	INFO	Listening on port 53936
+1637641688939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637641700627	Marionette	INFO	Stopped listening on port 53936
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637641745123	geckodriver	INFO	Listening on 127.0.0.1:54292
+1637641747145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54293" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile2z336Q"
+1637641747427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile2z336Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54293/devtools/browser/5c4ad2c2-2fc2-4536-bbed-75d1e61332f1
+1637641748505	Marionette	INFO	Listening on port 54308
+1637641748773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637641760535	Marionette	INFO	Stopped listening on port 54308
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637641772687	geckodriver	INFO	Listening on 127.0.0.1:54406
+1637641774708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54407" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilecOUtfn"
+1637641774971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilecOUtfn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54407/devtools/browser/e13dee60-350d-446d-b430-5c75e4624a35
+1637641776057	Marionette	INFO	Listening on port 54417
+1637641776342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637641934461	Marionette	INFO	Stopped listening on port 54417
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637641936739	geckodriver	INFO	Listening on 127.0.0.1:54651
+1637641938760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54652" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilemt6bDH"
+1637641939032	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilemt6bDH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54652/devtools/browser/1cef28de-a562-4b3b-a6d4-eea1d27a97ed
+1637641940060	Marionette	INFO	Listening on port 54666
+1637641940389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637641968830	Marionette	INFO	Stopped listening on port 54666
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637641970057	geckodriver	INFO	Listening on 127.0.0.1:54956
+1637641972078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54957" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilemK5VNi"
+1637641972369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilemK5VNi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54957/devtools/browser/5d954eec-e49d-4fcf-8d0e-323994efeced
+1637641973501	Marionette	INFO	Listening on port 54973
+1637641973711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637642063547	Marionette	INFO	Stopped listening on port 54971637642063866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\1684\\rust_mozprofileUhOjaG"
+1637642064196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileUhOjaG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57415/devtools/browser/551c377c-cbc3-495e-95b4-7a6223b4a8c0
+1637642065193	Marionette	INFO	Listening on port 57421
+1637642065505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637642946760	Marionette	INFO	Stopped listening on port 5742163console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\1684\\rust_mozprofilehntcvp"
+1637642947076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilehntcvp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58578/devtools/browser/0083214a-885a-4953-bfff-9118a9b6d2ee
+1637642947995	Marionette	INFO	Listening on port 58584
+1637642948403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637643011575	Marionette	INFO	Stopped listening on port 58584
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637643012825	geckodriver	INFO	Listening on 127.0.0.1:58687
+1637643014845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58688" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileWZxyd9"
+1637643015148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileWZxyd9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58688/devtools/browser/8c7f027c-2388-455d-9b93-a12d7b18440e
+1637643016165	Marionette	INFO	Listening on port 58693
+1637643016477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637643057608	Marionette	INFO	Stopped listening on port 58693
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637643059226	geckodriver	INFO	Listening on 127.0.0.1:58781
+1637643061247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58782" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile7wECGJ"
+1637643061547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile7wECGJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58782/devtools/browser/72d9330d-13ff-43fd-8531-cc72b3c77e63
+1637643062593	Marionette	INFO	Listening on port 58788
+1637643062874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637644887603	Marionette	INFO	Stopped listening on port 58788
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\1684\\rust_mozprofileBrfVQ4"
+1637644885019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileBrfVQ4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63926/devtools/browser/93abd2e7-ec5e-48fe-8832-bf7dd8e76ef1
+1637644886100	Marionette	INFO	Listening on port 63932
+1637644886381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637645302814	Marionette	INFO	Stopped listening on port 63932
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\1684\\rust_mozprofile1cGxYI"
+1637645300650	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile1cGxYI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59636/devtools/browser/fedf609f-b308-44fa-89a2-641ebeb9b484
+1637645301686	Marionette	INFO	Listening on port 59641
+1637645301994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637645503518	Marionette	INFO	Stopped listening on port 59641
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58021" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileXI1mYg"
+1637645500033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileXI1mYg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58021/devtools/browser/edcded20-48cb-4de8-8d69-e5aca80bc786
+1637645501062	Marionette	INFO	Listening on port 58028
+1637645501381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637645635915	Marionette	INFO	Stopped listening on port 58028
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\1684\\rust_mozprofileZJVS9U"
+1637645633517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileZJVS9U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54262/devtools/browser/262ca961-96fc-477d-a70b-1026ce9289ee
+1637645634777	Marionette	INFO	Listening on port 54276
+1637645634835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637645859896	Marionette	INFO	Stopped listening on port 54276
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\1684\\rust_mozprofilexJo3ek"
+1637645700816	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilexJo3ek\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53664/devtools/browser/ad0957b0-c7da-4e62-a8f3-c1f4ae8199cf
+1637645701966	Marionette	INFO	Listening on port 53675
+1637645702133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637645860948	Marionette	INFO	Stopped listening on port 53675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637645883345	geckodriver	INFO	Listening on 127.0.0.1:61299
+1637645885372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61300" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileVdIywH"
+1637645885780	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileVdIywH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61300/devtools/browser/8272b91c-55ef-4209-b393-7edd19a9cfa5
+1637645886920	Marionette	INFO	Listening on port 61317
+1637645887014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637645989741	Marionette	INFO	Stopped listening on port 61317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637645990983	geckodriver	INFO	Listening on 127.0.0.1:55201
+1637645993006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55202" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileaL69mw"
+1637645993336	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileaL69mw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55202/devtools/browser/357089f9-36af-450a-8a60-1556f559f596
+1637645994507	Marionette	INFO	Listening on port 55208
+1637645994645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637646052647	Marionette	INFO	Stopped listening on port 55208
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637646138275	geckodriver	INFO	Listening on 127.0.0.1:52790
+1637646140298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52791" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofiletMcwhL"
+1637646140589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofiletMcwhL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52791/devtools/browser/9f90e591-563f-498d-b03a-de7fbdfa8240
+1637646141594	Marionette	INFO	Listening on port 52798
+1637646141927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637646261147	Marionette	INFO	Stopped listening on port 52798
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53211" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileRNHAH0"
+1637646256417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileRNHAH0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53211/devtools/browser/e0823fdd-e8ce-4328-abaf-99d98db4ba05
+1637646257494	Marionette	INFO	Listening on port 53217
+1637646257765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637646267915	Marionette	INFO	Stopped listening on port 53217
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637646270625	geckodriver	INFO	Listening on 127.0.0.1:53295
+1637646272645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53296" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileXlmtRA"
+1637646272930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileXlmtRA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53296/devtools/browser/84e9ca76-51f4-4ced-8999-1587bb342c89
+1637646274047	Marionette	INFO	Listening on port 53301
+1637646274277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637646315107	Marionette	INFO	Stopped listening on port 53301
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637646316218	geckodriver	INFO	Listening on 127.0.0.1:61169
+1637646318240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61170" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileMT4TIw"
+1637646318563	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileMT4TIw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61170/devtools/browser/36152e7f-74fa-43f8-9d13-e132a4265c71
+1637646319645	Marionette	INFO	Listening on port 61175
+1637646319873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637646473657	Marionette	INFO	Stopped listening on port 61175
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51576" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile6tL6cZ"
+1637646473822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofile6tL6cZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51576/devtools/browser/d0d29630-1bec-49d7-8073-472ce336c71d
+1637646474915	Marionette	INFO	Listening on port 51586
+1637646475111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637646688359	Marionette	INFO	Stopped listening on port 51586
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\1684\\rust_mozprofileHKWBZV"
+1637646644119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileHKWBZV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56369/devtools/browser/f97730a8-48f4-4506-97f8-a022f1887c12
+1637646645180	Marionette	INFO	Listening on port 56375
+1637646645436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637646689322	Marionette	INFO	Stopped listening on port 56375
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56563" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileqXVKam"
+1637646685502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileqXVKam\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56563/devtools/browser/94f6b46e-5083-4def-9b61-e24d0923e18d
+1637646686823	Marionette	INFO	Listening on port 56568
+1637646686847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637646862857	Marionette	INFO	Stopped listening on port 56568
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637646885885	geckodriver	INFO	Listening on 127.0.0.1:57213
+1637646887907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57214" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileHSNB0h"
+1637646888225	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileHSNB0h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57214/devtools/browser/19f4fad8-c764-4960-8b63-060050917f53
+1637646889316	Marionette	INFO	Listening on port 57221
+1637646889543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637647044764	Marionette	INFO	Stopped listening on port 57221
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56883" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilevET2y3"
+1637646952792	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilevET2y3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56883/devtools/browser/d16542b1-a518-454d-a426-32288aa97058
+1637646954193	Marionette	INFO	Listening on port 56888
+1637646954619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637646961535	Marionette	INFO	Stopped listening on port 56888
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637646965115	geckodriver	INFO	Listening on 127.0.0.1:56971
+1637646967152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56972" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileiw8LO8"
+1637646967442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileiw8LO8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56972/devtools/browser/9c263db7-a734-46ef-97b7-131bde70fbfb
+1637646968501	Marionette	INFO	Listening on port 56983
+1637646968787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637647044061	Marionette	INFO	Stopped listening on port 56983
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637647045782	geckodriver	INFO	Listening on 127.0.0.1:54773
+1637647047802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54774" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileLplkb6"
+1637647048086	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileLplkb6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54774/devtools/browser/4f9c0f15-ac13-4133-8248-924616684f1c
+1637647049098	Marionette	INFO	Listening on port 54780
+1637647049434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637647414647	Marionette	INFO	Stopped listening on port 54780
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\1684\\rust_mozprofileFY8yRo"
+1637647143812	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileFY8yRo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65024/devtools/browser/75a3fc91-0f8b-4309-8904-87f25007fede
+1637647144834	Marionette	INFO	Listening on port 65030
+1637647145165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637647424573	Marionette	INFO	Stopped listening on port 65030
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58652" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilei4BhkV"
+1637647367837	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofilei4BhkV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58652/devtools/browser/7d4cc263-2e0e-4a2c-867e-807235878247
+1637647368941	Marionette	INFO	Listening on port 58675
+1637647369170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637647426413	Marionette	INFO	Stopped listening on port 58675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63733" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileNX7lIk"
+1637647414040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileNX7lIk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63733/devtools/browser/b9a03a84-1b1f-44a8-b048-5d621679d617
+1637647415295	Marionette	INFO	Listening on port 63740
+1637647415396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637647453477	Marionette	INFO	Stopped listening on port 63741637647453852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59723" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileKb3YFx"
+1637647454169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileKb3YFx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59723/devtools/browser/35d9b6e1-bf26-4096-b881-e6be5c46602e
+1637647455304	Marionette	INFO	Listening on port 59729
+1637647455485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637647632795	Marionette	INFO	Stopped listening on port 59729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637647663282	geckodriver	INFO	Listening on 127.0.0.1:53799
+1637647665305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53801" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileCbebJx"
+1637647665592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileCbebJx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53801/devtools/browser/15086d95-5e69-4ce3-8cbb-56172ea9ea8a
+1637647666629	Marionette	INFO	Listening on port 53813
+1637647666942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637647737623	Marionette	INFO	Stopped listening on port 53813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637647741375	geckodriver	INFO	Listening on 127.0.0.1:55565
+1637647743398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55567" "-no-remote" "-profile" "C:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileO4FNeW"
+1637647743697	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Users\\dragunov.2017\\AppData\\Local\\Temp\\1684\\rust_mozprofileO4FNeW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55567/devtools/browser/d1dc8c0d-b770-46e4-b0d0-eaecd3b131f6
+1637647744765	Marionette	INFO	Listening on port 55577
+1637647745030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1637650793037	Marionette	INFO	Stopped listening on port 55577
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390159,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39014C,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
